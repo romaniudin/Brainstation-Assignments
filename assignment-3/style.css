@@ -1,0 +1,60 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+div ul {
+  list-style-type: circle;
+}
+header {
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  background-color: #E3DDDB;
+  border-bottom: 3px solid #5E8FD7;
+}
+img {
+  width: 15px;
+  height: 15px;
+  margin: 0px 5px 0px 0px;
+}
+table, th, td {
+  font-family: Arual, sans-serif;
+  text-align: left;
+}
+table {
+  width: 100%;
+}
+footer {
+  text-align: right;
+  background-color: #5E8FD7;
+  color: #FFFFFF;
+  padding-right: 8px;
+}
+footer.p {
+  margin-right: 8px;
+}
+.left {
+  text-align: right;
+}
+.italic_title {
+  font-style: italic;
+}
+.contacts {
+  text-align: right;
+  margin: 0px 8px;
+}
+#highlights {
+  list-style-type: square; 
+}
+#content {
+  margin: 80px 8px 0px 8px;
+  padding: 5px;
+}
+#mcd {
+  list-style-type: square;
+}
+#up {
+  float: left;
+  margin: 30px 0px 0px 8px;;
+}
+
